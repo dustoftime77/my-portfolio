@@ -1,0 +1,1 @@
+exclude _path = ["./_includes", "./_layouts", "./_posts"]
